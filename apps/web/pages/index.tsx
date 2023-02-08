@@ -4,7 +4,7 @@ export default function Web() {
  return (
   <div>
    <h1>Updating text for web app</h1>
-   <Button />
+   <Button>Click this button</Button>
   </div>
  );
 }
